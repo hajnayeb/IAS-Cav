@@ -7,3 +7,5 @@ The encoder is shown in the following picture:
 The total system including the measurement system, pump, and motor is shown in the following photo:
 ![assembly](https://github.com/hajnayeb/IAS-Cav/assets/74108898/71df75e8-3eaf-4965-b0ae-94030241a3ce)
 
+A photo of the transparent cover of the pump during cavitation is shown below:
+![cav](https://github.com/hajnayeb/IAS-Cav/assets/74108898/a40e8452-a884-4143-ba74-8ba78e1896cb)
