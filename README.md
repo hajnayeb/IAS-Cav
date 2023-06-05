@@ -1,11 +1,11 @@
 # Cavitation detection using IAS
-In order to detect cavitation in a centrifugal pump, the instantaneous angular speed can be used.
-For that purpose, I applied an encoder and a logic analyzer to measure the speed.
-The encoder is shown in the following picture:
+**In order to detect cavitation in a centrifugal pump, the instantaneous angular speed can be used.**
+**For that purpose, I applied an encoder and a logic analyzer to measure the speed.**
+**The encoder is shown in the following picture:**
 ![encoder](https://github.com/hajnayeb/IAS-Cav/assets/74108898/f0bd8201-ffd9-4c36-8dec-1ca70988d5fa)
 
-The total system including the measurement system, pump, and motor is shown in the following photo:
+**The total system including the measurement system, pump, and motor is shown in the following photo:**
 ![assembly](https://github.com/hajnayeb/IAS-Cav/assets/74108898/71df75e8-3eaf-4965-b0ae-94030241a3ce)
 
-A photo of the transparent cover of the pump during cavitation is shown below:
+**A photo of the transparent cover of the pump during cavitation is shown below:**
 ![cav](https://github.com/hajnayeb/IAS-Cav/assets/74108898/a40e8452-a884-4143-ba74-8ba78e1896cb)
